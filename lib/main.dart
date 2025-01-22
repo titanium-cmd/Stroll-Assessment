@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
                 colors: [
                   Colors.black.withValues(alpha: 0.5),
                   Colors.transparent,
-                  Colors.black.withValues(alpha: 0.8),
+                  Colors.black.withValues(alpha: .9),
                   Colors.black
                 ],
                 stops: [0.0, 0.3, 0.6, 1.0],
