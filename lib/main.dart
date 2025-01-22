@@ -252,7 +252,7 @@ class OptionCard extends StatelessWidget {
                     color: selectedOption == option ? Color(0xff8B88EF) : Colors.transparent),
                 borderRadius: BorderRadius.circular(12)),
             child: Padding(
-              padding: const EdgeInsets.all(16),
+              padding: const EdgeInsets.all(8),
               child: Row(
                 children: [
                   Card(
